@@ -1,1 +1,1 @@
-# Data and Analytics Capstone Projec
+# Data and Analytics Capstone Project
